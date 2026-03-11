@@ -1,2 +1,13 @@
 Joining meeting page
 Meeting preview page
+
+Landing Page
+Implemented full landing page UI.
+Added hero section with the headline "Meet freely. Understand instantly."
+Implemented AI powered tools grid layout.
+Added CTA section "Start smarter conversations today".
+Implemented footer section and layout styling.
+
+Login Page
+Implemented Join Meeting button.
+Added blue outline styling when the button is clicked/focused.
